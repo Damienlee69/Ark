@@ -1,14 +1,14 @@
 {
 	"Images": [
     	{
-        	"URL": "https://i.vgy.me/M6TdEI.png",
-        	"Pos": "TopMid",
+        	"URL": "https://i.vgy.me/5OKIBb.png",
+        	"Pos": "TopLeft",
                 	"Persist": true,
         	"FadeTime": 5
     	},
     	{
-        	"URL": "https://i.vgy.me/vrOJ0o.png",
-        	"Pos": "BottomRight",
+        	"URL": "https://i.vgy.me/sOLn2n.png",
+        	"Pos": "topRight",
         	"Persist": false,
         	"FadeTime": 8
     	}
