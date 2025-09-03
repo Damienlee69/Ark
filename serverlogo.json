@@ -2,13 +2,13 @@
 	"Images": [
     	{
         	"URL": "https://i.vgy.me/5OKIBb.png",
-        	"Pos": "TopLeft",
-                	"Persist": true,
+        	"Pos": "MidLeft",
+                	"Persist": false,
         	"FadeTime": 5
     	},
     	{
         	"URL": "https://i.vgy.me/sOLn2n.png",
-        	"Pos": "topRight",
+        	"Pos": "MidRight",
         	"Persist": false,
         	"FadeTime": 8
     	}
