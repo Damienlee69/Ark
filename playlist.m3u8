@@ -1,0 +1,21 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:345
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+# KoRn - Got The Life
+#EXTINF:237.000000,
+https://github.com/Damienlee69/Ark/releases/download/music/s001_0.ts
+#EXT-X-DISCONTINUITY
+# The Prodigy - Breathe
+#EXTINF:345.000000,
+https://github.com/Damienlee69/Ark/releases/download/music/s002_0.ts
+#EXT-X-DISCONTINUITY
+# Watsky - Mean Ass Drunk
+#EXTINF:200.000000,
+https://github.com/Damienlee69/Ark/releases/download/music/s003_0.ts
+#EXT-X-DISCONTINUITY
+# grandson - 02 - In Over My Head
+#EXTINF:207.000000,
+https://github.com/Damienlee69/Ark/releases/download/music/s004_0.ts
+#EXT-X-ENDLIST
